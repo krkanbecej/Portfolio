@@ -1,5 +1,5 @@
 body, html {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'georgia', 
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #777;
@@ -25,7 +25,7 @@ h3 {
 	color: #555;
 }
 h4 {
-	font-weight: 500;
+	font-weight: 530;
 	color: #555;
 }
 h5 {
@@ -106,7 +106,7 @@ hr {
 	text-transform: uppercase;
 }
 .navbar-custom .navbar-brand {
-	font-weight: 600;
+	font-weight: 650;
 }
 .navbar-custom .navbar-brand i.fa {
 	color: #E75926;
@@ -137,7 +137,7 @@ hr {
 }
 .navbar-custom .nav li a:hover {
 	outline: 0;
-	color: #E75926;
+	color: #c6002b;
 	background-color: transparent;
 }
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:active {
@@ -176,7 +176,7 @@ hr {
 #intro .intro-body H1 {
 	font-size: 76px;
 	font-weight: 700;
-	color: rgba(255,255,255,0.8);
+	color: #c0f4e4;
 	text-transform: uppercase;
 }
 #intro .intro-body .brand-heading {
@@ -465,7 +465,7 @@ img.img-thumbnail.team-img {
 /* Contact Section */
 #contact {
 	padding: 120px 0 40px 0;
-	background: #f6f6f6;
+	background: #f2fec8;
 }
 #contact .contact-item {
 	padding: 10px;
@@ -552,12 +552,12 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #contact .social i.fa {
 	font-size: 34px;
 	padding-top: 8px;
-	color: #cf5022;
+	color: #9fa4a1;
 	border-radius: 4px;
 	transition: all 0.3s;
 }
 #contact .social i.fa:hover {
-	color: #a13e1a;
+	color: #4dde00;
 }
 /* Footer Section*/
 #footer {
