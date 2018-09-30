@@ -1,5 +1,5 @@
 body, html {
-	font-family: 'georgia', 
+	font-family: 'georgia',
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #777;
@@ -23,10 +23,12 @@ h3 {
 	font-size: 16px;
 	font-weight: 700;
 	color: #555;
+	font-style: italic;
 }
 h4 {
-	font-weight: 530;
+	font-weight: 600;
 	color: #555;
+	font-style: italic;
 }
 h5 {
 	text-transform: uppercase;
@@ -34,7 +36,7 @@ h5 {
 	line-height: 20px;
 }
 p {
-	font-size: 14px;
+	font-size: 16px;
 }
 a {
 	color: #754747;
@@ -182,6 +184,7 @@ hr {
 #intro .intro-body .brand-heading {
 	color: #4dde00;
 	text-shadow: 0 4px #00a876;
+	font-style: italic;
 }
 #intro .intro-body .intro-text {
 	font-size: 18px;
@@ -272,6 +275,7 @@ hr {
 #services h3 {
 	font-size: 20px;
 	font-weight: 600;
+	font-style: italic;
 	color: #f6f6f6;
 }
 #services p {
