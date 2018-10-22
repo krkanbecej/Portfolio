@@ -89,6 +89,7 @@ ul, ol {
 	webkit-padding: 0;
 	moz-padding: 0;
 }
+/* linija ispod podnaslova   */
 hr {
 	height: 4px;
 	width: 270px;
@@ -99,7 +100,7 @@ hr {
 	margin-bottom: 30px;
 	border: 0;
 }
-/* Navigation */
+/* Navigacija */
 .navbar-custom {
 	padding: 0;
 	border-bottom: 0;
@@ -175,6 +176,7 @@ hr {
 	display: table-cell;
 	vertical-align: middle;
 }
+/*naslov  */
 #intro .intro-body H1 {
 	font-size: 76px;
 	font-weight: 700;
