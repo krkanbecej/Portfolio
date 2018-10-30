@@ -140,8 +140,9 @@ hr {
 }
 .navbar-custom .nav li a:hover {
 	outline: 0;
-	color: #c6002b;
-	background-color: transparent;
+	color: #fff;
+	background-color: #4dde00;
+	font-weight: bold;
 }
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:active {
 	outline: 0;
