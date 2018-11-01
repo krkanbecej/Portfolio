@@ -95,7 +95,7 @@ hr {
 	width: 270px;
 	text-align: center;
 	position: relative;
-	background: #55a82a;
+	background: orange;
 	margin: 0 auto;
 	margin-bottom: 30px;
 	border: 0;
@@ -112,7 +112,7 @@ hr {
 	font-weight: 650;
 }
 .navbar-custom .navbar-brand i.fa {
-	color: #E75926;
+	color: orange;
 }
 .navbar-custom .navbar-brand:focus {
 	outline: 0;
@@ -124,7 +124,7 @@ hr {
 	padding: 0 4px;
 }
 .navbar-custom .navbar-toggle:hover, .navbar-custom .navbar-toggle:focus {
-	background-color: #E75926;
+	background-color: #333;
 	color: #ffffff;
 }
 .navbar-custom .navbar-brand .navbar-toggle:focus, .navbar-custom .navbar-brand .navbar-toggle:active {
@@ -141,7 +141,7 @@ hr {
 .navbar-custom .nav li a:hover {
 	outline: 0;
 	color: #fff;
-	background-color: #4dde00;
+	background-color: orange;
 	font-weight: bold;
 }
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:active {
@@ -200,23 +200,23 @@ hr {
 }
 #intro .intro-body .intro-text {
 	font-size: 30px;
-	letter-spacing: 1px;
-	margin-bottom: 100px;
+	letter-spacing: 2px;
+	margin-bottom: 10px;
 	color: rgba(255,255,255,0.9);
 }
 }
 .btn-default {
 	color: #f6f6f6;
-	background: #4dde00;
+	background: orange;
 	border: 0;
 	padding: 12px 24px;
-	margin: 0 8px;
+	margin: 100px;
 	font-size: 18px;
 	transition: all 0.5s;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
 	color: #f6f6f6;
-	background-color: #55a62a;
+	background-color: #333;
 }
 .section-title.center {
 	padding: 30px 0;
@@ -289,7 +289,7 @@ hr {
 }
 #services i.fa {
 	font-size: 50px;
-	color: #4dde00;
+	color: orange;
 	transition: all 0.5s;
 }
 /* Gallery Section */
@@ -317,12 +317,12 @@ ol.type li a {
 ol.type li a.active {
 	color: #f6f6f6;
 	border: 1px solid #cf5022;
-	background: #4dde00;
+	background: orange;
 }
 ol.type li a:hover {
 	color: #f6f6f6;
 	border: 1px solid #cf5022;
-	background: #41ba00;
+	background: #333;
 }
 .isotope-item {
 	z-index: 2
@@ -490,7 +490,7 @@ img.img-thumbnail.team-img {
 }
 #contact i.fa {
 	font-size: 32px;
-	color: #41ba00;
+	color: orange;
 	margin-bottom: 10px;
 }
 #contact .text-danger {
@@ -527,7 +527,7 @@ label {
 	box-shadow: transparent;
 }
 #contact .btn-default {
-	background: #4dde00;
+	background: orange;
 	border: 0;
 	border-radius: 4px;
 	padding: 10px 20px;
@@ -537,7 +537,7 @@ label {
 }
 #contact .btn-default:hover, #contact .btn-default:focus {
 	color: #f6f6f6;
-	background: #41ba00;
+	background: #333;
 }
 .btn:active, .btn.active {
 	background-image: none;
@@ -564,7 +564,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	transition: all 0.3s;
 }
 #contact .social i.fa:hover {
-	color: #4dde00;
+	color: orange;
 }
 /* Footer Section*/
 #footer {
