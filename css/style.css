@@ -1,5 +1,5 @@
 body, html {
-	font-family: 'georgia',
+	font-family: tahoma,sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #777;
@@ -130,8 +130,10 @@ hr {
 .navbar-custom .navbar-brand .navbar-toggle:focus, .navbar-custom .navbar-brand .navbar-toggle:active {
 	outline: 0;
 }
-.navbar-custom a {
-	color: #fff;
+ a {
+	color: orange;
+	}
+.navbar-custom img{
 }
 .navbar-custom .nav li a {
 	-webkit-transition: background .3s ease-in-out;
@@ -142,7 +144,7 @@ hr {
 	outline: 0;
 	color: #fff;
 	background-color: orange;
-	font-weight: bold;
+	border-radius: 15px;
 }
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:active {
 	outline: 0;
@@ -478,7 +480,7 @@ img.img-thumbnail.team-img {
 	padding: 10px;
 	margin: 10px;
 	height: 100px;
-	border-radius: 4px;
+	border-radius: 14px;
 }
 #contact h3 {
 	font-size: 20px;
@@ -529,7 +531,7 @@ label {
 #contact .btn-default {
 	background: orange;
 	border: 0;
-	border-radius: 4px;
+	border-radius: 14px;
 	padding: 10px 20px;
 	color: #f6f6f6;
 	margin-top: 15px;
@@ -594,4 +596,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #intro .intro-body H1 {
 	font-size: 5em;
 }
+#malilogo{
+	padding-top: 30px;
+
 }
