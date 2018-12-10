@@ -423,6 +423,19 @@ ol.type li a:hover {
 	padding: 5px;
 	color: #F4D03F;
 }
+/* Video secion************* */
+#video h2{
+	color: #fff;
+}
+
+#video h3{
+	color: #fff;
+}
+#video{
+	background-image: url(../img/studio.jpg);
+	color: #fff;
+}
+
 /* Team Section */
 #team {
 	padding: 140px 0;
