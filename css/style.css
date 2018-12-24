@@ -187,8 +187,8 @@ hr {
 	text-transform: uppercase;
 }
 #intro .intro-body .brand-heading {
-	color: #4dde00;
-	text-shadow: 0 4px #00a876;
+	color: #fa6005;
+	text-shadow: 0 4px orange;
 	font-style: italic;
 }
 #intro .intro-body .intro-text {
@@ -202,9 +202,9 @@ hr {
 }
 #intro .intro-body .intro-text {
 	font-size: 30px;
-	letter-spacing: 2px;
+	/* letter-spacing: 2px; */
 	margin-bottom: 10px;
-	color: rgba(255,255,255,0.9);
+	color: #ccc;
 }
 }
 .btn-default {
@@ -433,7 +433,7 @@ ol.type li a:hover {
 }
 #video{
 	background-image: url(../img/studio.jpg);
-	color: #fff;
+	color:#b7b3b3;
 }
 
 /* Team Section */
@@ -486,6 +486,7 @@ img.img-thumbnail.team-img {
 	margin-top: 10px;
 }
 /* Contact Section */
+
 #contact {
 	padding: 120px 0 40px 0;
 	background: #f2fec8;
